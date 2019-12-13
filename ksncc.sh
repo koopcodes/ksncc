@@ -1,4 +1,4 @@
-for Y in {2017..2019}; do
+for Y in {2018..2019}; do
 	mkdir $Y
 	cd $Y
 	for M in {01..12}; do
