@@ -35,7 +35,7 @@ for Y in {2020..2020}; do
 				git add glob.md -f
 				git add glob.html -f
 				git add glob.css -f
-				git add glob.jsxc -f
+				git add glob.jsx -f
 				git commit --date="$Y-$M-$D 17:$i:00" -m "$i on $M $D $Y"
 			done
 			cd ../
